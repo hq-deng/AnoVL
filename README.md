@@ -47,5 +47,5 @@ data
   sh test_zero_shot.sh
   ```
 ## Acknowledgements
-We thank [WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation](https://arxiv.org/abs/2303.14814) [A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD](https://arxiv.org/abs/2305.17382) for providing assistance for our research.
+We thank [clip](https://github.com/openai/CLIP), [open_clip](https://github.com/mlfoundations/open_clip), [WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation](https://arxiv.org/abs/2303.14814), [A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD](https://arxiv.org/abs/2305.17382) for providing assistance for our research.
 
