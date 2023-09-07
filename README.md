@@ -50,7 +50,7 @@ data
 We thank [clip](https://github.com/openai/CLIP), [open_clip](https://github.com/mlfoundations/open_clip), [WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation](https://arxiv.org/abs/2303.14814), [A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD](https://arxiv.org/abs/2305.17382) for providing assistance for our research.
 ## Citation
 ```
-@article{deng2023anovl,
+@article{anovl,
   title={AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization},
   author={Deng, Hanqiu and Zhang, Zhaoxiang and Bao, Jinan and Li, Xingyu},
   journal={arXiv preprint arXiv:2308.15939},
