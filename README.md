@@ -1,4 +1,4 @@
-### Official Implementation of [AnoVL](https://arxiv.org/abs/2308.15939)
+### Official Implementation of [AnoVL](https://arxiv.org/abs/2308.15939) (Updating)
 AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization.
 ![AnoVL](/teaser/VLAD.png)
 ## Dataset Preparation 
