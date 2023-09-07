@@ -1,6 +1,6 @@
 ### Official Implementation of [AnoVL](https://arxiv.org/abs/2308.15939)
 AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization.
-
+![AnoVL](/teaser/VLAD.png)
 ## Dataset Preparation 
 ### MVTec AD
 - Download and extract [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad) into `data/mvtec`
